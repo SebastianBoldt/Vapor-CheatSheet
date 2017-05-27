@@ -8,4 +8,5 @@
 | vapor xcode | Creates a xcode project for you |
 | vapor heroku init | create new heroku app for you and deploys to it |
 | vapor heroku push | deploys your app to heroku |
+| vapor run prepare --revert --all | drop the db and run all preparations |
 
