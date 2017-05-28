@@ -13,5 +13,6 @@
 ### Heroku
 | Command | Description |
 | ----------- | ----------- |
+| vapor heroku push | pushes master to heroku |
 | heroku run .build/release/Run prepare --revert | revert the db and run all preparations|
 
