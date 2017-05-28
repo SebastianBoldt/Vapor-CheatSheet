@@ -10,3 +10,8 @@
 | vapor heroku push | deploys your app to heroku |
 | vapor run prepare --revert --all | drop the db and run all preparations |
 
+### Heroku
+| Command | Description |
+| ----------- | ----------- |
+| heroku run .build/release/Run prepare --revert | revert the db and run all preparations|
+
