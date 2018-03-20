@@ -3,6 +3,8 @@
 ### Vapor
 | Command | Description |
 | ----------- | ----------- |
+| vapor new PROJECT_NAME | Creates a new Vapor Project for you |
+| vapor new PROJECT_NAME --branch=beta | Uses beta version of vapor to create new project |
 | vapor build | The Swift Package Manager will first start by downloading the appropriate dependencies from git. It will then compile and link these dependencies together. |
 | vapor run serve | You should see a message Server starting.... You can now visit localhost:8080/plaintext in your browser or run |
 | vapor xcode | Creates a xcode project for you |
