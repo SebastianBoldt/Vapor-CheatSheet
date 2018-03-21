@@ -18,3 +18,10 @@
 | vapor heroku push | pushes master to heroku |
 | heroku run .build/release/Run prepare --revert | revert the db and run all preparations|
 
+### Vapor Cloud
+
+| Command | Description |
+| ----------- | ----------- |
+| vapor login | login in on vapor.cloud |
+| vapor deploy | deploy all of your projects |
+| vapor cloud logs --since=2h | show logs |
