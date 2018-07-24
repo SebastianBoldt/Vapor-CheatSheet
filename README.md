@@ -25,3 +25,5 @@
 | vapor login | login in on vapor.cloud |
 | vapor deploy | deploy all of your projects |
 | vapor cloud logs --since=2h | show logs |
+| vapor cloud deploy --replicas=1 --app=sebastianboldt | update existing app |
+| vapor cloud deploy --replicas=0 | take App offline |
